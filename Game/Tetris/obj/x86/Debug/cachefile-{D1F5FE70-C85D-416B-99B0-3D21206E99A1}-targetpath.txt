@@ -1,0 +1,9 @@
+Content\line.xnb
+Content\background.xnb
+Content\jblock.xnb
+Content\lblock.xnb
+Content\sblock.xnb
+Content\square.xnb
+Content\tblock.xnb
+Content\zblock.xnb
+Content\ScoreFont.xnb

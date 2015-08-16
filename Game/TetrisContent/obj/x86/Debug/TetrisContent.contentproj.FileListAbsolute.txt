@@ -1,0 +1,3 @@
+d:\dokumenter\Dropbox\Programming\C#\Visual Studio 2013\Projects\Tetris\TetrisContent\obj\x86\Debug\TetrisContent.contentprojResolveAssemblyReference.cache
+C:\Users\Joachim\Dropbox\Programming\C#\Visual Studio 2013\Projects\Tetris\TetrisContent\obj\x86\Debug\TetrisContent.contentprojResolveAssemblyReference.cache
+D:\Dropbox\Dropbox\Programming\C#\Visual Studio 2013\Projects\Tetris\TetrisContent\obj\x86\Debug\TetrisContent.contentprojResolveAssemblyReference.cache

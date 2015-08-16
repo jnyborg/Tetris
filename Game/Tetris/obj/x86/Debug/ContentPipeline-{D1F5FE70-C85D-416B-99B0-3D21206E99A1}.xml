@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>line.png</Source>
+      <Name>line</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Dropbox\Programming\C#\Visual Studio 2013\Projects\Tetris\Tetris\bin\x86\Debug\Content\line.xnb</Output>
+      <Time>2014-03-22T12:19:39+01:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Dropbox\Programming\C#\Visual Studio 2013\Projects\Tetris\Tetris\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2014-03-22T10:25:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>jblock.png</Source>
+      <Name>jblock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Dropbox\Programming\C#\Visual Studio 2013\Projects\Tetris\Tetris\bin\x86\Debug\Content\jblock.xnb</Output>
+      <Time>2014-03-23T10:19:19+01:00</Time>
+    </Item>
+    <Item>
+      <Source>lblock.png</Source>
+      <Name>lblock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Dropbox\Programming\C#\Visual Studio 2013\Projects\Tetris\Tetris\bin\x86\Debug\Content\lblock.xnb</Output>
+      <Time>2014-03-23T10:20:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sblock.png</Source>
+      <Name>sblock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Dropbox\Programming\C#\Visual Studio 2013\Projects\Tetris\Tetris\bin\x86\Debug\Content\sblock.xnb</Output>
+      <Time>2014-03-23T10:21:21+01:00</Time>
+    </Item>
+    <Item>
+      <Source>square.png</Source>
+      <Name>square</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Dropbox\Programming\C#\Visual Studio 2013\Projects\Tetris\Tetris\bin\x86\Debug\Content\square.xnb</Output>
+      <Time>2014-03-23T10:20:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tblock.png</Source>
+      <Name>tblock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Dropbox\Programming\C#\Visual Studio 2013\Projects\Tetris\Tetris\bin\x86\Debug\Content\tblock.xnb</Output>
+      <Time>2014-03-22T12:23:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>zblock.png</Source>
+      <Name>zblock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Dropbox\Programming\C#\Visual Studio 2013\Projects\Tetris\Tetris\bin\x86\Debug\Content\zblock.xnb</Output>
+      <Time>2014-03-23T10:21:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ScoreFont.spritefont</Source>
+      <Name>ScoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Dropbox\Programming\C#\Visual Studio 2013\Projects\Tetris\Tetris\bin\x86\Debug\Content\ScoreFont.xnb</Output>
+      <Time>2014-03-22T10:48:37+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{D1F5FE70-C85D-416B-99B0-3D21206E99A1}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Dropbox\Dropbox\Programming\C#\Visual Studio 2013\Projects\Tetris\TetrisContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Dropbox\Dropbox\Programming\C#\Visual Studio 2013\Projects\Tetris\Tetris\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Dropbox\Dropbox\Programming\C#\Visual Studio 2013\Projects\Tetris\Tetris\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Dropbox\Dropbox\Programming\C#\Visual Studio 2013\Projects\Tetris\Tetris\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-09-10T21:19:50.5772813+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
